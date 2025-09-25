@@ -1,4 +1,4 @@
-package Escola;
+package Escola.CalculadoraJornada;
 
 import java.time.LocalTime;
 import java.time.Duration;
