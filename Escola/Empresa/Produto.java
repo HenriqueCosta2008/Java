@@ -9,9 +9,13 @@ public class Produto {
     private String modelo;
     private double preco;
     private int quantidade; // Estoque
+    @SuppressWarnings("unused")
     private double peso;
+    @SuppressWarnings("unused")
     private String tamanho;
+    @SuppressWarnings("unused")
     private String cor;
+    @SuppressWarnings("unused")
     private LocalDate validade;
     private List<Reclamacao> reclamacoes;
     private List<Avaliacao> avaliacoes;
